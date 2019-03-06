@@ -1,0 +1,6 @@
+c:\users\inatan\documents\visual studio 2015\Projects\Test ParallelSort\Test ParallelSort\bin\x64\Debug\Test ParallelSort.exe.config
+c:\users\inatan\documents\visual studio 2015\Projects\Test ParallelSort\Test ParallelSort\bin\x64\Debug\Test ParallelSort.exe
+c:\users\inatan\documents\visual studio 2015\Projects\Test ParallelSort\Test ParallelSort\bin\x64\Debug\Test ParallelSort.pdb
+c:\users\inatan\documents\visual studio 2015\Projects\Test ParallelSort\Test ParallelSort\obj\x64\Debug\Test ParallelSort.exe
+c:\users\inatan\documents\visual studio 2015\Projects\Test ParallelSort\Test ParallelSort\obj\x64\Debug\Test ParallelSort.pdb
+c:\users\inatan\documents\visual studio 2015\Projects\Test ParallelSort\Test ParallelSort\obj\x64\Debug\Test ParallelSort.csprojResolveAssemblyReference.cache
